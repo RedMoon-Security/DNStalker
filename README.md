@@ -4,3 +4,4 @@ A shell script of automated host tool commands.
 Simply provide a domain name and the script will fetch/find:
 
 ## *SOA Record*
+A Start of Authority record is a type of resource record in the Domain Name System containing administrative information about the zone, especially regarding zone transfers.
