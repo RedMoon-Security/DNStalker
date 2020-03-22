@@ -1,6 +1,6 @@
 # DNStalker
 
-**A shell script of automated host tool commands.**
+**A shell script automating the host tool commands for DNS enumeration.**
 
 ## *Usage*
 
