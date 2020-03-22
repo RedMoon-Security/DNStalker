@@ -3,6 +3,7 @@
 ## *Usage*
 
 ./DNStalker [domain-name]
+
 Make sure the subdomain_list.txt file is in the same directory as DNStalker.sh
 
 A shell script of automated host tool commands.
