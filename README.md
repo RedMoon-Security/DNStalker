@@ -1,14 +1,14 @@
 # DNStalker
 
+**A shell script of automated host tool commands.**
+
 ## *Usage*
 
 ./DNStalker [domain-name]
 
 Make sure the subdomain_list.txt file is in the same directory as DNStalker.sh
 
-**A shell script of automated host tool commands.**
-
-Simply provide a domain name and the script will fetch/find/attempt:
+The script will fetch/find/attempt:
 
 ## *SOA Record*
 A Start of Authority record is a type of resource record in the Domain Name System containing administrative information about the zone, especially regarding zone transfers.
