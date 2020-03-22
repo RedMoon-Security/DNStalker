@@ -6,7 +6,7 @@
 
 Make sure the subdomain_list.txt file is in the same directory as DNStalker.sh
 
-A shell script of automated host tool commands.
+**A shell script of automated host tool commands.**
 Simply provide a domain name and the script will fetch/find/attempt:
 
 ## *SOA Record*
