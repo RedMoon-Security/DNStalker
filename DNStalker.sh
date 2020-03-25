@@ -124,7 +124,7 @@ fi
 
 echo " "
 echo "----------------------------------------------------"
-echo -e "${blue}Attempting Zone Transfer for $1$ Name Servers${NC}"
+echo -e "${blue}Attempting Zone Transfer for $1 Name Servers${NC}"
 echo "----------------------------------------------------"
 if [ "$1" == "" ]
 then
