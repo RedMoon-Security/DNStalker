@@ -2,6 +2,8 @@
 
 **A shell script automating the host tool commands for DNS enumeration.**
 
+![DNStalker Screenshot](https://user-images.githubusercontent.com/62467907/77509832-1ffb9880-6e76-11ea-80e3-9c0aa66adb2c.png)
+
 ## *Usage*
 
 ./DNStalker [domain-name]
